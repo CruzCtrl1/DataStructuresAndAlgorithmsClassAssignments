@@ -1,0 +1,20 @@
+[ccruz9@hills Assignment7]$ g++ *.cpp
+[ccruz9@hills Assignment7]$ ./a.out
+Please enter a string to test if a palindrome: racecar
+Your input was a palindrome!
+[ccruz9@hills Assignment7]$ ./a.out
+Please enter a string to test if a palindrome: mom 
+Your input was a palindrome!
+[ccruz9@hills Assignment7]$ ./a.out
+Please enter a string to test if a palindrome: dad
+Your input was a palindrome!
+[ccruz9@hills Assignment7]$ ./a.out
+Please enter a string to test if a palindrome: panda
+Your input was not a palindrome!
+[ccruz9@hills Assignment7]$ ./a.out
+Please enter a string to test if a palindrome: wood
+Your input was not a palindrome!
+[ccruz9@hills Assignment7]$ ./a.out
+Please enter a string to test if a palindrome: wow
+Your input was a palindrome!
+[ccruz9@hills Assignment7]$ exit

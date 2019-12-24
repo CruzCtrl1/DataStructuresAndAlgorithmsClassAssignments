@@ -1,0 +1,11 @@
+[ccruz9@hills Assignment11]$ g++ *.cpp
+[ccruz9@hills Assignment11]$ ./a.out
+Distance from SFO to SFO is 0
+Distance from SFO to LAX is 120
+Distance from SFO to LAS is 150
+Distance from SFO to PHX is 195
+Distance from SFO to DEN is 345
+Distance from SFO to JFK is 470
+[ccruz9@hills Assignment11]$ exit
+logout
+Connection to hills.ccsf.edu closed.

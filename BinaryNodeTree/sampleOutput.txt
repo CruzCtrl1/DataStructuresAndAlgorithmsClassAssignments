@@ -1,0 +1,15 @@
+[ccruz9@hills BinaryNodeTree]$ g++ *.cpp
+[ccruz9@hills BinaryNodeTree]$ ./a.out
+Tree 1 Inorder:
+Displaying item - 10
+Displaying item - 30
+Displaying item - 40
+Displaying item - 20
+Tree 2 Inorder:
+Displaying item - 40
+Displaying item - 10
+Displaying item - 30
+Displaying item - 20
+[ccruz9@hills BinaryNodeTree]$ exit
+logout
+Connection to hills.ccsf.edu closed.

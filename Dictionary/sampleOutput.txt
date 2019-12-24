@@ -1,0 +1,48 @@
+[ccruz9@hills Assignment10]$ g++ *.cpp
+[ccruz9@hills Assignment10]$ ./a.out
+Adding 3 entries into the dictionary.
+Here is the dictionary:
+Max has a birthday on June 10, 2011
+Josh has a birthday on December 21, 1990
+Tony has a birthday on August 23, 2005
+
+Testing searchName with an entry in the dictionary:
+Josh has a birthday on December 21, 1990
+
+Testing searchName with a person not in the dictionary:
+Celina is not in the dictionary!
+
+Testing searchForMonth:
+Tony has a birthday in August!
+
+Testing removeEntry with a nonexistant entry
+Panda isn't in the dictionary!
+
+Removing Max from dictionary.
+Here is the dictionary before the remove:
+Max has a birthday on June 10, 2011
+Josh has a birthday on December 21, 1990
+Tony has a birthday on August 23, 2005
+
+Here is the dictionary after the remove:
+Josh has a birthday on December 21, 1990
+Tony has a birthday on August 23, 2005
+
+Removing Tony from the dictionary.
+Here is the dictionary before the remove:
+Josh has a birthday on December 21, 1990
+Tony has a birthday on August 23, 2005
+
+Here is the dictionary after the remove:
+Josh has a birthday on December 21, 1990
+
+Testing searchForMonth to print multiple entries with a December birthday month:
+Added 2 more people with birthdays in December
+Josh has a birthday in December!
+Anna has a birthday in December!
+Serena has a birthday in December!
+
+[ccruz9@hills Assignment10]$ exit
+logout
+Connection to hills.ccsf.edu closed.
+Chriss-MacBook:~ chriscruz$ 

@@ -1,0 +1,30 @@
+[ccruz9@hills SortedListHasA]$ g++ *.cpp
+[ccruz9@hills SortedListHasA]$ ./a.out
+What is the high score to add to the list? (Make sure score isn't negative!): 1000
+The sorted list contains 
+1000 
+
+Would you like to add another score? (y/n): y
+What is the high score to add to the list? (Make sure score isn't negative!): 500
+The sorted list contains 
+1000 500 
+
+Would you like to add another score? (y/n): y
+What is the high score to add to the list? (Make sure score isn't negative!): 2000
+The sorted list contains 
+2000 1000 500 
+
+Would you like to add another score? (y/n): n
+Here is the completed sorted list of high scores:
+The sorted list contains 
+2000 1000 500 
+
+[ccruz9@hills SortedListHasA]$ ./a.out
+What is the high score to add to the list? (Make sure score isn't negative!): 200
+The sorted list contains 
+200 
+
+Would you like to add another score? (y/n): y
+What is the high score to add to the list? (Make sure score isn't negative!): -1
+Score can't be negative! Now exiting program.
+[ccruz9@hills SortedListHasA]$
